@@ -1,3 +1,17 @@
-Library/
-Temp/
-Logs/
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Compiled builds
+/[Bb]uild/
+/[Bb]uilds/
+
+# Temporary Unity files
+.utmp/
+*.log
+
+# Large diagnostic captures
+/[Mm]emoryCaptures/
